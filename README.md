@@ -1,6 +1,7 @@
 # ThinkPad-E495-Hackintosh
  Hackintosh for ThinkPad E595/E495. Also works for T495 with a minor change of Audio-related stuff.
 
+![macOS running](img/os.png)
 
 ## Features
 - **Working**: keyboard, trackpad, USB ports, Audio and GPU acceleration.
