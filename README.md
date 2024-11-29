@@ -7,7 +7,7 @@
 ## Prerequisites
 | **My Hardware**      |                      |
 |----------------------|----------------------|
-| Laptop Model         | ThinkPad E595        |
+| Laptop Model         | ThinkPad E495        |
 | CPU                  | AMD Ryzen 5 3500U 4c8t |
 | Graphics             | Integrated AMD Radeon Vega 8(set to 2GB) |
 | Wi-Fi Card           | AX200                |
