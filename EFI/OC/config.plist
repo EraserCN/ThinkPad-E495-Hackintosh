@@ -380,7 +380,7 @@
 			<key>PciRoot(0x1)/Pci(0x8,0x1)/Pci(0x0,0x6)</key>
 			<dict>
 				<key>alc-layout-id</key>
-				<data>DwAAAA==</data>
+				<integer>21</integer>
 			</dict>
 			<key>PciRoot(0x1)/Pci(0x1,0x2)/Pci(0x0,0x0)</key>
 			<dict>
