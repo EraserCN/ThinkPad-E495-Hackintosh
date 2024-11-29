@@ -4,9 +4,10 @@
 ![macOS running](img/os.png)
 
 ## Features
-- **Working**: keyboard, trackpad, USB ports, Audio and GPU acceleration.
-- **TBA**: Wi-Fi, Bluetooth, Sidecar, AirDrop, etc (Until I have a capable Wifi Card)
+- **Working**: keyboard, trackpad, USB ports, GPU acceleration, Wi-Fi, Bluetooth, Audio(**SEE BELOW**), AirPlay
+- **Untested**: Sidecar, AirDrop, HDMI, Type-C Display
 - **Won't Work at All**: Fingerprint, iPhone Mirroring(T2 Chip required), DRM-related stuff
+
 
 ## Prerequisites
 1. **My Hardware**:
